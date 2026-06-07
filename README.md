@@ -4,7 +4,7 @@ This Project focuses on predicting a continuous target variable using a multi mo
 combines satellite imagery data with tabular metadata (such as lattitude, longitude and other numerical features) 
 The motivation is to leverage both visual spatial information and structered numerical data to achieve higher predictive accuracy than using either modality alone. 
 
-
+PROBLEM STATEMENT 
 Traditional machine learning models often rely only on tabular data, while deep learning models focus on 
 image-based features. However, satellite-based prediction tasks benefit from both sources. The challenge 
 addressed here is to design an end-to-end pipeline that efficiently fuses image features with tabular features 
